@@ -11,7 +11,7 @@ catalog = [
 <<<<<<< HEAD
 
 for infa in catalog:
-    print(f"{infa.brand} - {infa.model}. {infa.namber} ")
+    print(f"{infa.brand} - {infa.model}. {infa.number} ")
 
     
    
