@@ -8,14 +8,5 @@ catalog = [
     Smartphone("OPPO", "OPPO Find X9 Pro", "+79912348756"),
     Smartphone("CMF Phone", "CMF Phone 2 Pro", "+79036812345")
 ]
-<<<<<<< HEAD
-
-for infa in catalog:
-    print(f"{infa.brand} - {infa.model}. {infa.number} ")
-
-    
-   
-=======
 for infa in catalog:
     print(f"{infa.brand} - {infa.model}. {infa.number}")
->>>>>>> 955e0b14f1cdc9d7b80e22d945d10332e0ae3a16
