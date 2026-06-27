@@ -1,8 +1,7 @@
 from user import User
 
-boris = User('Борис', 'Гладковский')
-my_user = boris
+staff_1 = User('Борис', 'Гладковский')
 
-my_user.print_first_name()
-my_user.print_last_name()
-my_user.print_full_name()
+staff_1.print_first_name()
+staff_1.print_last_name()
+staff_1.print_full_name()
